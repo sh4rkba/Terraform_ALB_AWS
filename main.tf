@@ -1,3 +1,10 @@
+/**
+ * @author Adnan Pasic
+ * @email pasica@gmail.com
+ * @create date 2022-06-17 22:16:13
+ * @modify date 2022-06-17 22:16:13
+ * @desc Terraform AWS Loadbalancer + subdomain
+ */
 ###################### ZONE
 provider "aws" {
   region  = var.region
