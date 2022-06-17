@@ -1,3 +1,10 @@
+/**
+ * @author Adnan Pasic
+ * @email pasica@gmail.com
+ * @create date 2022-06-17 22:25:48
+ * @modify date 2022-06-17 22:25:48
+ * @desc Terraform AWS Loadbalancer + subdomain
+ */
 # Print public DNS for instances
 output "DNS" {
   #value = aws_instance.myInstance.public_dns

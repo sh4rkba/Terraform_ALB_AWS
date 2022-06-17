@@ -1,3 +1,10 @@
+/**
+ * @author Adnan Pasic
+ * @email pasica@gmail.com
+ * @create date 2022-06-17 22:25:55
+ * @modify date 2022-06-17 22:25:55
+ * @desc Terraform AWS Loadbalancer + subdomain
+ */
 # Set number of instances
 variable "instance_nmb" {
   type        = number
